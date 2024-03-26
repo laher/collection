@@ -11,7 +11,7 @@ You can use these with go1.22 IF you use `GOEXPERIMENT=rangefunc`
 ## Example
 
 ```go
-s := NewSet("1", "a", "b")
+s := collection.NewSet("1", "a", "b")
 for i := range s.Iter() {
     fmt.Println(i)
 }
