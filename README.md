@@ -1,6 +1,6 @@
 # Collections
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/laher/collections.svg)](https://pkg.go.dev/github.com/laher/collections)
+[![Go Reference](https://pkg.go.dev/badge/github.com/laher/collection.svg)](https://pkg.go.dev/github.com/laher/collection)
 
 Iterable generic collections for go v1.23+.
 
