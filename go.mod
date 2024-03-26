@@ -1,4 +1,4 @@
-module github.com/laher/collections
+module github.com/laher/collection
 
 go 1.22.1
 
