@@ -1,4 +1,4 @@
-module github.com/laher/set
+module github.com/laher/collections
 
 go 1.22.1
 
