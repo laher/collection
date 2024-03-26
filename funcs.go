@@ -1,4 +1,4 @@
-package collections
+package collection
 
 func Union[E comparable](s, s2 Collection[E]) *Set[E] {
 	result := NewSet(s.Slice()...)
